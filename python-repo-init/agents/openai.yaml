@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Repo Init"
+  short_description: "Initialize uv-based Python repos with checks"
+  default_prompt: "Use $python-repo-init to scaffold a new uv-based Python repository with Ruff, Pyrefly, pytest, prek, and the required AGENTS.md policy."
